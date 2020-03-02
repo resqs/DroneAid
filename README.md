@@ -1,3 +1,5 @@
+TODO: Train DroneAID to look for animals (dogs, cats, sheep, cows, giraffe) in need of rescuing (they don't know how to SOS).
+
 # <img src="img/droneaid-logo.png" height="100" alt="DroneAid logo">
 
 DroneAid uses machine learning to detect calls for help on the ground placed by those in need. At the heart of DroneAid is a *Symbol Language* that is used to train a visual recognition model. That model analyzes video from a drone to detect and count specific images. A dashboard can be used to plot those locations on a map and initiate a response.
